@@ -1,7 +1,7 @@
 # primeiro-repositorio
 
-para copiar código em github:
+para copiar código em HTML:
 ...
-<github>
-  <h1>meu primeiro arquivo github</h1>
-</github>  
+<html>
+  <h1>meu primeiro arquivo HTML</h1>
+</html>  
